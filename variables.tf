@@ -389,7 +389,6 @@ variable "autoscaler_disable_ipv6" {
   default     = false
 }
 
-
 variable "hetzner_ccm_version" {
   type        = string
   default     = null
